@@ -4,7 +4,7 @@ Version: 1.0
 Date: 28/08/2013
 Author: Mesbahi Alaeddine
 Contact: alaeddine.mesbahi@gmail.com
-Description: A Burp plugin in Python. The plugin hilights requests with both sinks and hosts and add a new button
+Description: A Burp plugin in Python. The plugin hilights requests with both sinks and sources and add a new button
   to hilight sinks and hosts in the Javascript code. The plugin is using DOM XSS Wiki regex http://code.google.com/p/domxsswiki/wiki/FindingDOMXSS.
   The plugin aids at detecting DOM XSS, hilight requests do not necessarily have DOM XSS vulnerabilties.
 """
